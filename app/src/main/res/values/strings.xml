@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">SmardCard</string>
+
+    <string name="add_stack">Create</string>
+    <string name="add_content">Add Content</string>
+
+    <!-- Add: Stacks button-->
+    <string name="stacks">Stacks</string>
+    <string name="create_stack">Create</string>
+    <string name="create_content">Done</string>
+
+    <string name="update_stack">Update </string>
+    <string name="update_content">Update</string>
+
+    <string name="edit_stack">Edit</string>
+    <string name="delete_stack">Delete</string>
+
+    <string name="delete_content">Delete Content</string>
+
+    <string name="play_content">Play Content</string>
+
+    <string name="skip">Skip</string>
+    <string name="done">Done</string>
+
+</resources>
