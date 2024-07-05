@@ -5,7 +5,7 @@ Rhabi Mendoza <br>
 Shane Delos Reyes <br>
 
 ### About
-Smart Card is an android application designed to facilitate efficient learning. It allows users to create customized stacks dedicated to specific subjects. Within each stack, users can input questions and their corresponding answers, transforming the app into a personalized study tool. With its quiz-like format, Smart Card provides an interactive way to reinforce knowledge and skills across various topics.
+Smart Card is an android application designed to facilitate efficient learning, it allows users to create customized stacks dedicated to specific subjects. Within each stack, users can input questions and their corresponding answers, transforming the app into a personalized study tool. With its quiz-like format, Smart Card provides an interactive way to reinforce knowledge and skills across various topics.
 
 ### Screenshots
 <div>
